@@ -1,5 +1,4 @@
 Sub CLear_Range()
-'
 ' CLear_Range Macro
 ' Author: Wayan Wijesinghe
 
@@ -9,15 +8,10 @@ Sub CLear_Range()
     
 End Sub
 
-
-
-
 Sub Rounder()
-    '
-    ' CLear_Range Macro
     ' Author: Wayan Wijesinghe
     ' v.0
-    ' Release data : 2020.07.15
+    ' Release date : 2020.07.15
 
     '
     Application.ScreenUpdating = False
